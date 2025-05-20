@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tenda.jpg" alt="TendaTech Logo" width="200" />
+  <img src="../assets/tenda.jpg" alt="TendaTech Logo" width="200" />
 </p>
 
 <p align="center"><b>Empowering Action Through Tech, Safety & Skills</b></p>
